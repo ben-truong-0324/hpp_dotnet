@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "HannahsPamperedPetsApp.Domain/1.0.0": {
+        "runtime": {
+          "HannahsPamperedPetsApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HannahsPamperedPetsApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

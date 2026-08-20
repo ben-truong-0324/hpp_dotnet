@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="HannahsPamperedPetsApp.Application/HannahsPamperedPetsApp.Application.csproj" />
+  <Project Path="HannahsPamperedPetsApp.Domain/HannahsPamperedPetsApp.Domain.csproj" />
+  <Project Path="HannahsPamperedPetsApp.Infrastructure/HannahsPamperedPetsApp.Infrastructure.csproj" />
+  <Project Path="HannahsPamperedPetsApp.Tests/HannahsPamperedPetsApp.Tests.csproj" />
+  <Project Path="HannahsPamperedPetsApp.WebUI/HannahsPamperedPetsApp.WebUI.csproj" />
+</Solution>
