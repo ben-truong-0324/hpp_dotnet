@@ -1,0 +1,12 @@
+# Standard .NET ignore
+bin/
+obj/
+TestResults/
+.vs/
+.vscode/
+
+# SECRETS - DO NOT REMOVE
+appsettings.json
+appsettings.Development.json
+*/appsettings.json
+*/appsettings.Development.json

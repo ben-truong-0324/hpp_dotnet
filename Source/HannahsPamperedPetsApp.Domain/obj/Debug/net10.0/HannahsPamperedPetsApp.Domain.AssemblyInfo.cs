@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HannahsPamperedPetsApp.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a418e7f90e9fefc319dcc9cf4033dded0b5982b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc079941e0333dc564517165c39741f50c7cb763")]
 [assembly: System.Reflection.AssemblyProductAttribute("HannahsPamperedPetsApp.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HannahsPamperedPetsApp.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
